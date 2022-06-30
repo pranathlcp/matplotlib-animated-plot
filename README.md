@@ -1,6 +1,6 @@
 # Creating an Animated Plot using Matplotlib
 
-![alt text](sample.jpg "Title")
+<a href="https://raw.githubusercontent.com/pranathlcp/matplotlib-animated-plot/master/sample.jpg" target="_blank">![alt text](sample.jpg "Animated Plot using Matplotlib")</a>
 
 ## Description
 
