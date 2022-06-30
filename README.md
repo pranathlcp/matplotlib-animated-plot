@@ -8,7 +8,7 @@ This is a simple jupyter notebook that attempts to create and customize an anima
 
 ## Getting Started
 
-It is advisable to use the [Anaconda Distribution](https://www.anaconda.com/download/) for setting up the Jupyter Notebook Interface and Python. More information regarding setting up the environment can be found [here](https://docs.anaconda.com/anaconda/install/) and [here](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html). You might have to install more additional dependencies during the p
+It is advisable to use the [Anaconda Distribution](https://www.anaconda.com/download/) for setting up the Jupyter Notebook Interface and Python. More information regarding setting up the environment can be found [here](https://docs.anaconda.com/anaconda/install/) and [here](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html).
 
 ## Execution
-Open the Jupyter Notebook interface in the source folder of the notebook, and open `animated_plot.ipynb`. Run each cell of the notebook sequentially to get the expected result. You might need to install more dependencies using a package manager such as [pip](https://pypi.org/project/pip/) during this process.
+Open the Jupyter Notebook interface in the source folder of the notebook, and open `animated_plot.ipynb`. Run each cell of the notebook sequentially to get the expected result. You might have to install more dependencies using a package manager such as [pip](https://pypi.org/project/pip/) during this process.
