@@ -1,6 +1,6 @@
 # Creating an Animated Plot using Matplotlib
 
-![alt text](sample.jpg "Title")
+![SL vs Aus - Animated Plot - with Music](https://github.com/pranathlcp/matplotlib-animated-plot/assets/13727308/9f03c58e-c058-487e-8802-ac9848fe5bc6)
 
 ## Description
 
